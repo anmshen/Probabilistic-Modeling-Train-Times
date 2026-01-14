@@ -25,3 +25,5 @@ uncertainty and ideally produce more reliable predictions.
 4. To run the upgrade model, run run_gmm_upgrade.ipynb
 
 ### Our full report is available at final_report.pdf
+
+Personal contribution to project: GMM/GMR implementation and writing.
