@@ -14,7 +14,9 @@ produce a single estimate for the travel time from Boston College to Park Street
 during peak use hours (7AM - 7PM). We will be training on data recorded from January through
 May and evaluating the quality of predictions on trips during June.
 
-Probabilistic modeling is suitable for this task because the Green Line is subject to stochastic variables such as car traffic, weather conditions, differing user demand, and skipping low demand stations when delays are especially high. Using a probabilistic approach will better account for this uncertainty and ideally produce more reliable predictions.
+Probabilistic modeling is suitable for this task because the Green Line is subject to stochastic vari-
+ables such as car traffic, weather conditions, differing user demand, and skipping low demand stations when delays are especially high. Using a probabilistic approach will better account for this
+uncertainty and ideally produce more reliable predictions.
 
 ### Running the code:
 1. Clone the repository
