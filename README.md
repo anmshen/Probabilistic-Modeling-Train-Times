@@ -26,4 +26,4 @@ uncertainty and ideally produce more reliable predictions.
 
 ### Our full report is available at final_report.pdf
 
-Personal contribution to project: GMM/GMR implementation and writing.
+Personal contribution to project: Data cleaning and normalization and GMM/GMR implementation.
